@@ -1,0 +1,46 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs and local environment
+*.log
+.env
+.env.*
+!.env.example
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Node dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Hatch pet generated intermediates
+hatch-pet-runs/*/decoded/
+hatch-pet-runs/*/frames/
+hatch-pet-runs/*/frames-regenerated/
+hatch-pet-runs/*/qa/contact-sheet*.png
+hatch-pet-runs/*/qa/previews/
+hatch-pet-runs/*/qa/previews-regenerated/
+hatch-pet-runs/*/final/*.png
+hatch-pet-runs/*/qa/*-regenerated.json
+
+# Keep compact final spritesheets and metadata trackable
+!hatch-pet-runs/*/final/*.webp
+!hatch-pet-runs/*/final/*.json
+hatch-pet-runs/*/final/*-regenerated.*

@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13825,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14223,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13852,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14027,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13821,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14069,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12487,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 2
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13146,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13124,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12570,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12979,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12972,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12690,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12857,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13634,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13734,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13693,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13715,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13853,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13388,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13341,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13377,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14744,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14795,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14768,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14809,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13963,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13986,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14351,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13935,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13905,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13648,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14042,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14369,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14486,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14534,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14428,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14383,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13765,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14950,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14025,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14546,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15176,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15251,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15439,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14056,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13865,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14119,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14101,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13916,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14059,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18671,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18594,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18412,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 1
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18539,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18481,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18340,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 0
+        }
+      ]
+    }
+  ]
+}

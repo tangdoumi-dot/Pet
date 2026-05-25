@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "run_dir": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius",
+  "spritesheet": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\final\\spritesheet.webp",
+  "validation": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\final\\validation.json",
+  "contact_sheet": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\qa\\contact-sheet.png",
+  "review": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\qa\\review.json",
+  "package": "C:\\Users\\86152\\.codex\\pets\\xiselius",
+  "state_mapping": {
+    "row0": "idle",
+    "row1": "happy",
+    "row2": "shy",
+    "row3": "cry",
+    "row4": "surprised",
+    "row5": "clicked",
+    "row6": "drag",
+    "row7": "sleep",
+    "row8": "study"
+  }
+}
