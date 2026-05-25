@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated",
+  "frames_root": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix",
   "errors": [],
   "warnings": [],
   "rows": [
@@ -15,7 +15,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\idle\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13825,
@@ -30,7 +30,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\idle\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14223,
@@ -45,7 +45,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\idle\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13852,
@@ -60,7 +60,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\idle\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14027,
@@ -75,7 +75,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\idle\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13821,
@@ -90,7 +90,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\idle\\05.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\idle\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14069,
@@ -116,7 +116,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12487,
@@ -131,7 +131,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13146,
@@ -146,7 +146,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13124,
@@ -161,7 +161,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12570,
@@ -176,7 +176,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12979,
@@ -191,7 +191,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\05.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12972,
@@ -206,7 +206,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\06.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12690,
@@ -221,7 +221,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-right\\07.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-right\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 12857,
@@ -247,10 +247,10 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13634,
+          "nontransparent_pixels": 13632,
           "bbox": [
             42,
             5,
@@ -262,14 +262,14 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13734,
+          "nontransparent_pixels": 13543,
           "bbox": [
             42,
             5,
-            149,
+            150,
             203
           ],
           "edge_pixels": 0,
@@ -277,14 +277,14 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13693,
+          "nontransparent_pixels": 13470,
           "bbox": [
             42,
             5,
-            149,
+            150,
             203
           ],
           "edge_pixels": 0,
@@ -292,25 +292,25 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13715,
+          "nontransparent_pixels": 13507,
           "bbox": [
-            43,
+            42,
             5,
-            149,
+            150,
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 0
+          "chroma_adjacent_pixels": 3
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13853,
+          "nontransparent_pixels": 13516,
           "bbox": [
             42,
             5,
@@ -322,12 +322,12 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\05.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13388,
+          "nontransparent_pixels": 13408,
           "bbox": [
-            43,
+            42,
             5,
             149,
             203
@@ -337,14 +337,14 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\06.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13341,
+          "nontransparent_pixels": 13463,
           "bbox": [
-            43,
+            42,
             5,
-            148,
+            149,
             203
           ],
           "edge_pixels": 0,
@@ -352,14 +352,14 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running-left\\07.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running-left\\07.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13377,
+          "nontransparent_pixels": 13446,
           "bbox": [
-            43,
+            42,
             5,
-            148,
+            149,
             203
           ],
           "edge_pixels": 0,
@@ -378,7 +378,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waving\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14744,
@@ -393,7 +393,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waving\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14795,
@@ -408,7 +408,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waving\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14768,
@@ -423,7 +423,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waving\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waving\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14809,
@@ -449,10 +449,10 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\jumping\\00.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13963,
+          "nontransparent_pixels": 14076,
           "bbox": [
             40,
             5,
@@ -464,10 +464,10 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\jumping\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13986,
+          "nontransparent_pixels": 14096,
           "bbox": [
             41,
             5,
@@ -479,10 +479,10 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\jumping\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14351,
+          "nontransparent_pixels": 14464,
           "bbox": [
             40,
             5,
@@ -494,10 +494,10 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\jumping\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13935,
+          "nontransparent_pixels": 14055,
           "bbox": [
             41,
             5,
@@ -509,10 +509,10 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\jumping\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\jumping\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13905,
+          "nontransparent_pixels": 14023,
           "bbox": [
             41,
             5,
@@ -535,7 +535,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13648,
@@ -550,7 +550,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14042,
@@ -565,7 +565,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14369,
@@ -580,7 +580,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14486,
@@ -595,7 +595,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14534,
@@ -610,7 +610,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\05.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14428,
@@ -625,7 +625,7 @@
         },
         {
           "index": 6,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\06.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14383,
@@ -640,7 +640,7 @@
         },
         {
           "index": 7,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\failed\\07.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\failed\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13765,
@@ -666,7 +666,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waiting\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14950,
@@ -681,7 +681,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waiting\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14025,
@@ -696,7 +696,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waiting\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14546,
@@ -711,7 +711,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waiting\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15176,
@@ -726,7 +726,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waiting\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15251,
@@ -741,7 +741,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\waiting\\05.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\waiting\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15439,
@@ -767,7 +767,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14056,
@@ -782,7 +782,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13865,
@@ -797,7 +797,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14119,
@@ -812,7 +812,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14101,
@@ -827,7 +827,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 13916,
@@ -842,7 +842,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\running\\05.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\running\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14059,
@@ -868,7 +868,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\00.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\review\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18671,
@@ -883,7 +883,7 @@
         },
         {
           "index": 1,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\01.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\review\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18594,
@@ -898,7 +898,7 @@
         },
         {
           "index": 2,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\02.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\review\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18412,
@@ -913,7 +913,7 @@
         },
         {
           "index": 3,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\03.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\review\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18539,
@@ -928,7 +928,7 @@
         },
         {
           "index": 4,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\04.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\review\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18481,
@@ -943,7 +943,7 @@
         },
         {
           "index": 5,
-          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-regenerated\\review\\05.png",
+          "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\frames-sigh-fix\\review\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18340,

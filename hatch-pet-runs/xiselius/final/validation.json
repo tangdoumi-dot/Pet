@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\final\\spritesheet-regenerated.webp",
+  "file": "C:\\Users\\86152\\Desktop\\codex-pro2\\hatch-pet-runs\\xiselius\\final\\spritesheet-sigh-fix.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "width": 1536,
@@ -126,56 +126,56 @@
       "row": 2,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 13634
+      "nontransparent_pixels": 13632
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 13734
+      "nontransparent_pixels": 13543
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 13693
+      "nontransparent_pixels": 13470
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 13715
+      "nontransparent_pixels": 13507
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 13853
+      "nontransparent_pixels": 13516
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 13388
+      "nontransparent_pixels": 13408
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 13341
+      "nontransparent_pixels": 13463
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 13377
+      "nontransparent_pixels": 13446
     },
     {
       "state": "waving",
@@ -238,35 +238,35 @@
       "row": 4,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 13963
+      "nontransparent_pixels": 14076
     },
     {
       "state": "jumping",
       "row": 4,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 13986
+      "nontransparent_pixels": 14096
     },
     {
       "state": "jumping",
       "row": 4,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 14351
+      "nontransparent_pixels": 14464
     },
     {
       "state": "jumping",
       "row": 4,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 13935
+      "nontransparent_pixels": 14055
     },
     {
       "state": "jumping",
       "row": 4,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 13905
+      "nontransparent_pixels": 14023
     },
     {
       "state": "jumping",

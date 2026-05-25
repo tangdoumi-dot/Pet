@@ -33,14 +33,20 @@ coverage/
 # Hatch pet generated intermediates
 hatch-pet-runs/*/decoded/
 hatch-pet-runs/*/frames/
+hatch-pet-runs/*/frames-*/
 hatch-pet-runs/*/frames-regenerated/
 hatch-pet-runs/*/qa/contact-sheet*.png
 hatch-pet-runs/*/qa/previews/
+hatch-pet-runs/*/qa/previews-*/
 hatch-pet-runs/*/qa/previews-regenerated/
 hatch-pet-runs/*/final/*.png
+hatch-pet-runs/*/final/*-*.webp
+hatch-pet-runs/*/final/*-*.json
 hatch-pet-runs/*/qa/*-regenerated.json
+hatch-pet-runs/*/qa/*-*.json
 
 # Keep compact final spritesheets and metadata trackable
 !hatch-pet-runs/*/final/*.webp
 !hatch-pet-runs/*/final/*.json
-hatch-pet-runs/*/final/*-regenerated.*
+hatch-pet-runs/*/final/*-*.webp
+hatch-pet-runs/*/final/*-*.json
