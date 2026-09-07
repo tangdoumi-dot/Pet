@@ -1,0 +1,4 @@
+/pet-window-backups/
+__pycache__/
+*.py[cod]
+*.log
