@@ -9,6 +9,7 @@ desktop.ini
 .idea/
 
 # Logs and local environment
+/pet-window-backups/
 *.log
 .env
 .env.*
